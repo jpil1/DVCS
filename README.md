@@ -13,7 +13,7 @@ Question 1: Repository
 Question 2: Files
 Question 3: Repository
 Question 4: Fullscreen, zommed in, zoomed out, default
-Question 5: Remote and ignored files
+Question 5: Origin and ignored files
 Question 6: 3
 Question 7: 1
 Question 8: 3
